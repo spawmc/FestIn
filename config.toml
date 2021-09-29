@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://fest-in.vercel.app/"
 title = "FestIn"
 theme = "meghna-hugo"
 # post pagination
