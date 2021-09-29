@@ -137,7 +137,7 @@ preloader = "images/logo.png"
 
 # cookies
 [params.cookies]
-enable = false
+enable = true 
 expire_days = 2
 
 # google map
