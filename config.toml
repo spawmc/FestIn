@@ -3,7 +3,7 @@ baseURL = "/"
 title = "FestIn"
 theme = "meghna-hugo"
 # post pagination
-paginate = "6"
+paginate = "10"
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -47,24 +47,24 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Distros"
 url = "#portfolio"
-weight = 3
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "Participantes"
 url = "#team"
-weight = 4
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Conferencias"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Contacto"
 url = "#contact"
-weight = 7
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
@@ -112,4 +112,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 Designed & Developed by [@spawnmc](https://spawnmc.me) for RySC at [Universidad Veracruzana](https://uv.mx)"
+copyright = "Copyright &copy; 2021 Designed & Developed by [@spawnmc](https://spawnmc.me) for [RySC](https://www.uv.mx/fei/plan-de-estudios/lic-en-redes-y-servicios-de-computo/) at [Universidad Veracruzana](https://uv.mx)"
