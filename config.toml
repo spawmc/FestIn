@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/"
+baseURL = "https://festin.uv.spawnmc.me/"
 title = "FestIn"
 theme = "meghna-hugo"
 # post pagination
