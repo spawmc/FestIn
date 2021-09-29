@@ -1,10 +1,10 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Participantes
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
+    - name : Lorem
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
@@ -20,7 +20,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Frank Miller
+    - name : Lorem
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Manager
@@ -36,7 +36,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
+    - name : Lorem
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Web Developer
@@ -52,7 +52,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
+    - name : Lorem 
       image_webp : images/team/team-4.webp
       image : images/team/team-4.jpg
       designation : SEO Specialist
