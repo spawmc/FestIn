@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  #bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/banner.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "¿Qué es FestIn?"
+  content : "Es un evento realizado por la comunidad de la Universidad Veracruzana para apoyar a los nuevos usuarios a instalar sistemas operativos GNU/Linux. Ademas se realizaran conferencias y talleres relacionados a temas del mundo de la informática en general."
+  button:
+    enable : true
+    label : "Explorar FestIn"
+    link : "#services"
