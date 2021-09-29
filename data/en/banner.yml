@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Explorar FestIn"
-    link : "#services"
+    link : "#about"

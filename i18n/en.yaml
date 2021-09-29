@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Conferencias
 - id: readMore
-  translation: Read more
+  translation: Ver más
 - id: viewAllPost
-  translation: View All Post
+  translation: Ver todas las conferencias
 - id: share
   translation: Share
 - id: aboutAuthor
