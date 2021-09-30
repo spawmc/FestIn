@@ -8,4 +8,4 @@ cta:
   button:
     enable : true
     label : "Ver conferencias"
-    link : "#blog"
+    link : "#conferencias"
