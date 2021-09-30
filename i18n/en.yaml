@@ -5,13 +5,13 @@
 - id: viewAllPost
   translation: Ver todas las conferencias
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
-  translation: About author
+  translation: Autor
 - id: authorsPosts
   translation: Author's posts
 - id: all
-  translation: All
+  translation: Todos
 - id: about
   translation: About Us
 - id: services
