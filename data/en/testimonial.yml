@@ -8,5 +8,8 @@ testimonial:
     - name : Linux Torvalds
       image : images/client/linus.jpeg
       #image_webp : images/client/client-1.webp
-      date : 2001
-      content : I don’t actually follow other operating systems much. I don’t compete – I just worry about making Linux better than itself, not others.       
+      content : I don’t actually follow other operating systems much. I don’t compete – I just worry about making Linux better than itself, not others.
+    
+    - name : Richard Stallman
+      content : ’Free software’ is a matter of liberty, not price. To understand the concept, you should think of ‘free’ as in ‘free speech,’ not as in ‘free beer’.
+      image : images/client/stallman.jpg

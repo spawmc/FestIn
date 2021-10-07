@@ -4,11 +4,11 @@ team:
   title : Participantes
   team_member :
     # team member loop
-    - name : Lorem
-      image_webp : images/team/team-1.webp
+    - name : Joanna Reyes
+      image_webp : images/team/team-4.webp
       image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Estudiante
+      content : Redes y Servicios de Cómputo.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -66,3 +66,5 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
+
+

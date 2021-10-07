@@ -16,7 +16,6 @@
 			{{ range first 6 (where site.RegularPages "Section" "==" "conferencias")}}
 			{{ .Render "article"}}
 			{{ end }}
-
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main" href="{{ `conferencias` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
