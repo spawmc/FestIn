@@ -112,4 +112,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 Designed & Developed by [@spawnmc](https://spawnmc.me) for [RySC](https://www.uv.mx/fei/plan-de-estudios/lic-en-redes-y-servicios-de-computo/) at [Universidad Veracruzana](https://uv.mx)"
+copyright = "[Copyright](https://creativecommons.org/licenses/by-sa/4.0/deed.es) &copy; 2021 Designed & Developed by [@spawnmc](https://spawnmc.me) for [RySC](https://www.uv.mx/fei/plan-de-estudios/lic-en-redes-y-servicios-de-computo/) at [Universidad Veracruzana](https://uv.mx)"
