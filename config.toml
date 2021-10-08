@@ -101,8 +101,8 @@ icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-angle-double-right" # themify icon pack : https://themify.me/themify-icons
+link = "https://t.me/joinchat/byf-4mDB8htkMTQx"
 
 
 ################################ English Language ########################
